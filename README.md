@@ -35,7 +35,7 @@ EA-Brain is a full-stack application that combines a React frontend with a Pytho
 ### 1. Clone
 
 ```bash
-git clone https://github.com/GroupEA-Software/ea-brain.git
+git clone https://github.com/GroupEA-Software/EA-Brain.git
 cd ea-brain
 ```
 
